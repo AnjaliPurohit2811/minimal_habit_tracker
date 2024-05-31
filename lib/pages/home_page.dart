@@ -168,7 +168,7 @@ class _HomePageState extends State<HomePage> {
             .of(context)
             .colorScheme
             .tertiary,
-        child: const Icon(Icons.add),
+        child:  Icon(Icons.add , color: Theme.of(context).colorScheme.inversePrimary,),
       ),
       body: ListView(
         children: [
