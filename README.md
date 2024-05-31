@@ -20,7 +20,7 @@ A habit tracker is a simple tool used to monitor and record daily habits. Typica
 
 ### Light Theme ScreenShots
 
-<div >
+<div align="center" >
    <img src="https://github.com/AnjaliPurohit2811/minimal_habit_tracker/assets/143180602/867aee89-7e00-4552-9691-eb594a994ce0" height=500px> &nbsp;&nbsp;&nbsp;&nbsp;
 
   <img src="https://github.com/AnjaliPurohit2811/minimal_habit_tracker/assets/143180602/6ae3fb6e-b9cd-43f2-b8a2-2d3eda037720" height=500px> &nbsp;&nbsp;&nbsp;&nbsp;
